@@ -1,0 +1,14 @@
+/.config
+/.cache
+/.local
+.vim
+.Xauthority
+.viminfo
+/Pictures
+/Downloads
+ù
+/.mozilla
+.bash_history
+/.pki
+/.dbus
+
